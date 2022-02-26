@@ -1,7 +1,7 @@
-R extension for rust:		https://github.com/extendr/extendr
-Python code in rust:		https://github.com/PyO3/pyo3
-Inline python code:		https://github.com/fusion-engineering/inline-python
-Concurent postgres api:		https://crates.io/crates/tokio-postgres
-Verified rust jwt crate:	https://crates.io/crates/jsonwebtoken#validation
+R extension for rust:		    https://github.com/extendr/extendr
+Python code in rust:		    https://github.com/PyO3/pyo3
+Inline python code:		        https://github.com/fusion-engineering/inline-python
+Concurent postgres api:		    https://crates.io/crates/tokio-postgres
+Verified rust jwt crate:	    https://crates.io/crates/jsonwebtoken#validation
 Dataframe lib interoperable:	https://pola-rs.github.io/polars/polars/
-hosting rocket.rs:            https://gist.github.com/belst/ff36c5f3883f7bf9b06c379d0a7bed9e
+hosting rocket.rs:              https://gist.github.com/belst/ff36c5f3883f7bf9b06c379d0a7bed9e
