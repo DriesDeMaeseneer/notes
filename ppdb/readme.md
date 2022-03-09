@@ -1,8 +1,3 @@
-# TODO:
-- "Gewone gebruikers kunnen alles doen
-buiten een nieuwe dataset toevoegen, dat is enkel toegestaan voor admins."
-
-
 # User 
 
 ## Abilities:
@@ -13,8 +8,6 @@ buiten een nieuwe dataset toevoegen, dat is enkel toegestaan voor admins."
 - can edit user password.
 - can create new environment.
 - can delete existing environment(cascade).
-- can [upload](https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html) data set to environment.
-- can stop upload of the data set.
 - can view data set entries.
 - can create new algorithm.
 - can edit excising algorithm.
@@ -33,8 +26,6 @@ buiten een nieuwe dataset toevoegen, dat is enkel toegestaan voor admins."
 - has timeouts:
 	+ for creating databases(aka data set).
 	+ amount of concurrent A/B tests.
-- has limits:
-	+ amount of databases.
 	
 ## When Created:
 - hash password with salt and pepper([argon2id](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#argon2id)).
@@ -53,6 +44,7 @@ buiten een nieuwe dataset toevoegen, dat is enkel toegestaan voor admins."
 - can view user passwords.
 - can delete existing environment(cascade).
 - can view all current data set uploads.
+- can [upload](https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html) data set to environment.
 - can stop upload of the data set.
 - can view data set entries.
 - can edit excising algorithm.
