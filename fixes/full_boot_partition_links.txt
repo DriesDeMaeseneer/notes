@@ -1,0 +1,5 @@
+https://bbs.archlinux.org/viewtopic.php?id=198562
+https://www.howtogeek.com/740797/how-to-roll-back-the-kernel-in-linux/
+https://unix.stackexchange.com/questions/314055/systemd-boot-vmlinuz-linux-not-found
+https://unix.stackexchange.com/questions/704370/initramfs-got-corrupted-misconfigured-how-to-boot-properly
+https://man.archlinux.org/man/fsck.8.en
